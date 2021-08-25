@@ -1,16 +1,16 @@
 Algoritmo "SOMA_QUADRADO"
 // 
 //  
-// Descrição   : Faz a soma dos quadrados de três números inteiros.
+// Descriï¿½ï¿½o   : Faz a soma dos quadrados de trï¿½s nï¿½meros inteiros.
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 6/4/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    A, B, C : inteiro
    SOMA : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Senao de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
    escreva("Digite um valor inteiro para A: ")
    leia(A)
    escreva("Digite um valor inteiro para B: ")
@@ -18,6 +18,6 @@ Inicio
    escreva("Digite um valor inteiro para C: ")
    leia(C)
    SOMA <- A^2 + B^2 + C^2
-   escreva("A soma do resultado ao quadra de ",A,", ",B,", e ",C," é igual a: ",SOMA)
+   escreva("A soma do resultado ao quadra de ",A,", ",B,", e ",C," ï¿½ igual a: ",SOMA)
 
 Fimalgoritmo
