@@ -42,19 +42,17 @@ Inicio
  TOTAL_NULOS <- NULOS_A + NULOS_B + NULOS_C
  TOTAL_BRANCO <- BRANCO_A + BRANCO_B + BRANCO_C
  TOTAL_VALIDO <- VALIDO_A + VALIDO_B + VALIDO_C
- VALIDO_TOTAL <- TOTAL_VALIDO
  TOTAL_VOTOS <- TOTAL_NULOS + TOTAL_BRANCO + TOTAL_VALIDO
  TOTAL_A <- VALIDO_A + NULOS_A + BRANCO_A
  TOTAL_B <- VALIDO_B + NULOS_B + BRANCO_B
  TOTAL_C <- VALIDO_C + NULOS_C + BRANCO_C
- PERCENT_A <- ((TOTAL_VOTOS - VALIDO_A) / TOTAL_VOTOS) * 100
- PERCENT_B <- ((TOTAL_VOTOS - VALIDO_B) / TOTAL_VOTOS) * 100
- PERCENT_C <- ((TOTAL_VOTOS - VALIDO_C) / TOTAL_VOTOS) * 100
- PERCENT_NULOS <- ((TOTAL_VOTOS - TOTAL_NULOS) / TOTAL_VOTOS) * 100
- PERCENT_BRANCO <- ((TOTAL_VOTOS))TOTAL_BRANCO / TOTAL_VOTOS
- PERCENT_VALIDO <- TOTAL_VALIDO / TOTAL_VOTOS
- VALIDO_PERCENT <- VALIDO_TOTAL / TOTAL_VOTOS
- 
+ PERCENT_A <- (TOTAL_VOTOS * VALIDO_A) / 100
+ PERCENT_B <- (TOTAL_VOTOS * VALIDO_B) / 100
+ PERCENT_C <- (TOTAL_VOTOS * VALIDO_C) / 100
+ PERCENT_NULOS <- (TOTAL_VOTOS * TOTAL_NULOS) / 100
+ PERCENT_BRANCO <- (TOTAL_VOTOS * TOTAL_BRANCO) / 100
+ PERCENT_VALIDO <- (TOTAL_VOTOS * TOTAL_VALIDO) / 100
+
  limpatela
  escreval("**********************")
  escreval("* APURACAO DOS VOTOS *")
@@ -62,10 +60,10 @@ Inicio
  
  escreval("Total de eleitores: ", TOTAL_VOTOS)
  escreval("Percentual de votos validos candidato A: ", PERCENT_A,"%")
- escreval("Percentual de votos  validos candidato B: ", PERCENT_B,"%")
+ escreval("Percentual de votos validos candidato B: ", PERCENT_B,"%")
  escreval("Percentual de votos validos candidato C: ", PERCENT_C,"%")
  escreval("Percentual de votos nulos: ", PERCENT_NULOS,"%")
- escreval("Percentual de votos em branco: ", PERCENT_BRANCO,"%")
  escreval("Percentual de votos validos: ", PERCENT_VALIDO,"%")
+ escreval("Percentual de votos em branco: ", PERCENT_BRANCO,"%")
 
 Fimalgoritmo
