@@ -1,0 +1,9 @@
+Entendimento
+
+1. Estabelecer a leitura da váriavel DISTANCIA (distancia percorrida pelo projétil).
+2. Estabelecer a leitura da váriavel TEMPO (tempo utilizado pelo projétil).
+3. Fazer o cálculo da váriavel DISTANCIA multiplicado por 1000.
+4. Fazer o cálculo da váriavel TEMPO multiplicado por 60.
+5. Fazer a divisão do resultado obitido no passo 3 e 4 repectivamente. 
+4. Atribuir o resultado da divisão do passo 5 a váriavel VELOCIDADE (velocidade que o projétil atingiu).
+6. Apresentar o valor da váriavel VELOCIDADE.
