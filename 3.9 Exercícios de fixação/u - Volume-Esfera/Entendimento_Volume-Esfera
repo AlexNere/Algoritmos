@@ -1,0 +1,8 @@
+Entendimento
+
+1. Estabelecer a leitura da váriavel RAIO (raio da esfera).
+2. Efetuar a divisão de 4 e 3 repectivamente.
+3. Fazer a exponenciação da váriavel RAIO por 3
+4. Fazr a multiplicação do resultado obitido no passo 2 e 3 repectivamente por 3.14159.
+5. Atribuir o resultado da multiplicação obitido no passo 4 para a váriavel VOLUME (volume da esfera).
+6. Apresentar o valor da váriavel VOLUME.
