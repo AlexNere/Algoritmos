@@ -1,0 +1,7 @@
+Entendimento
+
+1. Estabelecer a leitura da váriavel BASE (base da exponenciação).
+2. Estabelecer a leitura da váriavel ESPTE (espoente da exponenciação).
+3. Fazer o cálculo da exponenciação com as BASE elevado a ESPTE.
+4. Atribuir o resultado obitido no passo 3 a váriavel EXPON.
+5. Apresentar o valor da váriavel EXPON.
