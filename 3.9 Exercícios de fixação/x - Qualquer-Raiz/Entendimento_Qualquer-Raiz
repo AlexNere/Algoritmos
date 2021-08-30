@@ -1,0 +1,8 @@
+Entendimento
+
+1. Estabelecer a leitura da váriavel BASE1.
+2. Estabelecer a leitura da váriavel INDICE2
+3. Fzer a divisão do valor 1 pela váriavel INDICE2.
+4. Fazer exponeciação da váriavel BASE1 elevado pelo resultado obitido no passo 3.
+5. Atribuir o cálculo da raiz obitido no passo 4 à váriavel RAIZ1.
+6. Apresentar o valor da váriavel RAIZ1
