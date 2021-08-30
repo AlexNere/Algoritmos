@@ -1,0 +1,7 @@
+Entendimento
+
+1. Estabelecer a leitura da váriavel PES ( a medida do pé é de 0,3048 metros).
+2. Fazer a multiplicação da váriavel PES com a constante 30,48 centímetros.
+3. Dividir o resultado obitido no passo 2 por 100.
+4. Atribui o resultado da divisão obitido no passo 3 pora a váriavel CONVERT.
+5. Apresentar o valor da váriavel CONVERT.
