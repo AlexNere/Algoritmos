@@ -1,0 +1,8 @@
+Entendimento.
+
+1. Estabelecer a leitura da váriavel A (váriavel base).
+2. Fazer a adição do valor da váriavel A com o valor 1.
+3. Atribuir o resultado obitido no passo 2 à váriavel SUCESSOR1
+4. Fazer a subtração do valor da váriavel A com o valor 1.
+5. Atribuir o resultado obitido no passo 4 à váriavel ANTECESSOR2
+6. Apresentar os valores das váriaveis ANTECESSOR2 e SUCESSOR1.
