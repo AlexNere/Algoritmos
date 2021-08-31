@@ -5,7 +5,7 @@
  Para poder fazer os caracteres ← (seta para esquerda) e ⊗ (circled times) dentro do programa dia. Foi feito da seguite forma: Pressionar e manter pressionado as teclas Ctrl + Shift + u e em seguida digitar o código do caractere.
  Ex: Ctrl + Shift + u + 2190 (seta para esquerda).
  Ex: Ctrl + Shift + u + 2297 (circled times).
- Ex: Ctrl + Shift + u + 2191 (seta para cima) ↑
+ Ex: Ctrl + Shift + u + 2191 (seta para cima) ↑.
  
  
  Os exercícios também foram feitos a mão em uma caderno. Somente a parte de codificação, pois fazer diagramação a mão não da muito certo.
