@@ -1,8 +1,9 @@
 Algoritmo "CONVERSOR"
 // 
 //  
-// Descricao   : Aqui voce descreve o que o programa faz! (funcao)
-// Autor(a)    : Nome do(a) aluno(a)
+// Descricao   : Programa que faz a leitura em grau celsios e apresenta em
+//               fahrenheit.
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 25/3/2021
 Var
 // Secao de Declaracoes das variaveis 
