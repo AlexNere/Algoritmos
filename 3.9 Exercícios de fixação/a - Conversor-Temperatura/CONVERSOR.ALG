@@ -10,9 +10,11 @@ Var
    C, F : REAL
 
 Inicio
-// Secao de Comandos, procedimento, funcoes, operadores, etc... 
+// Secao de Comandos, procedimento, funcoes, operadores, etc...
+
+    escreva("Digite o valo em graus celsios: ")
     LEIA (C)
     F <- (9*C+160)/5
-    ESCREVA (F)
+    ESCREVAL (C," graus celsios em fahrenheit e igual a: ",F," fahrenheit")
 
 Fimalgoritmo
