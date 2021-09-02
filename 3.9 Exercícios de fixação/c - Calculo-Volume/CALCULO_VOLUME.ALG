@@ -1,17 +1,21 @@
 Algoritmo "CALCULO_VOLUME"
 // 
 //  
-// Descrição   : Program de calcular volume
-// Autor(a)    : Nome do(a) aluno(a)
+// Descriï¿½ï¿½o   : Program de calcular volume
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 26/3/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    ALTURA, VOLUME, R : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-   leia(ALTURA,R)
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+
+   escreva("Digite o valor da altura: ")
+   leia(ALTURA)
+   escreva("Digite o valor do raio: ")
+   leia(R)
    VOLUME <- 3.14159*R^2*ALTURA
-   escreva(VOLUME)
+   escreval("O volume e igual a: ",VOLUME)
 
 Fimalgoritmo
