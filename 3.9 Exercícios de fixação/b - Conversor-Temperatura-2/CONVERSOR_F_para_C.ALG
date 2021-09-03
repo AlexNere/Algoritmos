@@ -1,15 +1,15 @@
 Algoritmo "CONVERSOR"
 // 
 //  
-// Descrição   : Fahrenheit convertida em graus Celsius.
-// Autor(a)    : Nome do(a) aluno(a)
+// Descriï¿½ï¿½o   : Fahrenheit convertida em graus Celsius.
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 26/3/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    C, F : REAL
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
    leia (F)
    C <- ((F-32)*5)/9
    escreva (C)
