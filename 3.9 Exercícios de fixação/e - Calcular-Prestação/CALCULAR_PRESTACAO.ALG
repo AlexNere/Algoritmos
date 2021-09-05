@@ -1,16 +1,16 @@
 Algoritmo "CALCULAR_PRESTACAO"
 // 
 //  
-// Descrição   : Program que calcula a prestação em atrso de um bem.
-// Autor(a)    : Nome do(a) aluno(a)
+// Descriï¿½ï¿½o   : Program que calcula a prestaï¿½ï¿½o em atrso de um bem.
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 29/3/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    VALOR, TAXA : real
    TEMPO1, PRESTACAO : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
    escreva("Informe o valor: R$")
    leia(VALOR)
    escreva("Informe a taxa: ")
@@ -18,6 +18,6 @@ Inicio
    escreva("Informa o tempo em meses: ")
    leia(TEMPO1)
    PRESTACAO <- VALOR+(VALOR*(TAXA/100)*TEMPO1)
-   escreva("Valor da prestação: R$",PRESTACAO)
+   escreva("Valor da prestaï¿½ï¿½o: R$",PRESTACAO)
 
 Fimalgoritmo
