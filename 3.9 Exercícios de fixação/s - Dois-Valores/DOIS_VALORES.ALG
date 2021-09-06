@@ -1,17 +1,17 @@
 Algoritmo "DOIS_VALORES"
 // 
 //  
-// Descrição   : Programa dois valores. Faz o calculo das 4 operacaoes aritimetica, utilizando as variaveis A e B.
-// Autor(a)    : Nome do(a) aluno(a)
+// Descriï¿½ï¿½o   : Programa dois valores. Faz o calculo das 4 operacaoes aritimetica, utilizando as variaveis A e B.
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 28/8/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    A, B : real
    SOMA, SUBTRACAO : real
    DIVISAO, MULTIPLICACAO : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
 
    escreva("Digite o valor de A: ")
    leia(A)
