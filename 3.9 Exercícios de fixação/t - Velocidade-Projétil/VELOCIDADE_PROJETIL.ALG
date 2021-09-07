@@ -1,15 +1,15 @@
 Algoritmo "VELOCIDADE_PROJETIL"
 // 
 //  
-// Descrição   : Program que faz o calculo da velocidade do projetil.
-// Autor(a)    : Nome do(a) aluno(a)
+// Descriï¿½ï¿½o   : Program que faz o calculo da velocidade do projetil.
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 28/8/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    VELOCIDADE, DISTANCIA, TEMPO1 : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
 
    escreva("Qual a distancia percorrido em metros: ")
    leia(DISTANCIA)
