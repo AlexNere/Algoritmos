@@ -13,5 +13,3 @@
  Foi feito a codificação também utilizando a ferramenta de apoio **VISUALG 3.0.7.0**.
  
  Os software utilizados foram obitidos na central de software **Ubuntu Software**.
-
-
