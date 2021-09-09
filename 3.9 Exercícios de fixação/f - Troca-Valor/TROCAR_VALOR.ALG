@@ -1,15 +1,15 @@
 Algoritmo "TROCAR_VALOR"
 // 
 //  
-// Descrição   : Troca o valor de A por B e de B por A.
-// Autor(a)    : Nome do(a) aluno(a)
+// Descriï¿½ï¿½o   : Troca o valor de A por B e de B por A.
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 29/3/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    A, B, C : inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
    escreva("Digite o valor de A: ")
    leia(A)
    escreva("Digite o valor de B: ")
@@ -17,6 +17,6 @@ Inicio
    C <- B
    B <- A
    A <- C
-   escreva("O valor de A é: ",A," e o valor de B é: ",B)
+   escreva("O valor de A ï¿½: ",A," e o valor de B ï¿½: ",B)
 
 Fimalgoritmo
