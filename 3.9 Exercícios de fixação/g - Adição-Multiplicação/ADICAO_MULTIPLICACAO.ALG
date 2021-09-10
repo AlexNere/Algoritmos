@@ -1,17 +1,17 @@
 Algoritmo "ADICAO_MULTIPLICACAO"
 // 
 //  
-// Descrição   : Fazer o máximo de combições de adição e multiplicação entre A, B, C e D.
-// Autor(a)    : Nome do(a) aluno(a)
+// Descriï¿½ï¿½o   : Fazer o mï¿½ximo de combiï¿½ï¿½es de adiï¿½ï¿½o e multiplicaï¿½ï¿½o entre A, B, C e D.
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 30/3/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    A, B, C, D : inteiro
    SOMA1, SOMA2, SOMA3, SOMA4, SOMA5, SOMA6 : inteiro
    MULT1, MULT2, MULT3, MULT4, MULT5, MULT6 : inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
    escreva("Informe o valor de A: ")
    leia(A)
    escreva("Informe o valor de B: ")
@@ -32,17 +32,17 @@ Inicio
    MULT4 <- B*C
    MULT5 <- B*D
    MULT6 <- C*D
-   escreval("A soma entre ",A," e ",B," é igual a: ",SOMA1)
-   escreval("A soma entre ",A," e ",C," é igual a: ",SOMA2)
-   escreval("A soma entre ",A," e ",D," é igual a: ",SOMA3)
-   escreval("A soma entre ",B," e ",C," é igual a: ",SOMA4)
-   escreval("A soma entre ",B," e ",D," é igual a: ",SOMA5)
-   escreval("A soma entre ",C," e ",D," é igual a: ",SOMA6)
-   escreval("A multiplicação entre ",A," e ",B," é igual a: ",MULT1)
-   escreval("A multiplicação entre ",A," e ",C," é igual a: ",MULT2)
-   escreval("A multiplicação entre ",A," e ",D," é igual a: ",MULT3)
-   escreval("A multiplicação entre ",B," e ",C," é igual a: ",MULT4)
-   escreval("A multiplicação entre ",B," e ",D," é igual a: ",MULT5)
-   escreval("A multiplicação entre ",C," e ",D," é igual a: ",MULT6)
+   escreval("A soma entre ",A," e ",B," ï¿½ igual a: ",SOMA1)
+   escreval("A soma entre ",A," e ",C," ï¿½ igual a: ",SOMA2)
+   escreval("A soma entre ",A," e ",D," ï¿½ igual a: ",SOMA3)
+   escreval("A soma entre ",B," e ",C," ï¿½ igual a: ",SOMA4)
+   escreval("A soma entre ",B," e ",D," ï¿½ igual a: ",SOMA5)
+   escreval("A soma entre ",C," e ",D," ï¿½ igual a: ",SOMA6)
+   escreval("A multiplicaï¿½ï¿½o entre ",A," e ",B," ï¿½ igual a: ",MULT1)
+   escreval("A multiplicaï¿½ï¿½o entre ",A," e ",C," ï¿½ igual a: ",MULT2)
+   escreval("A multiplicaï¿½ï¿½o entre ",A," e ",D," ï¿½ igual a: ",MULT3)
+   escreval("A multiplicaï¿½ï¿½o entre ",B," e ",C," ï¿½ igual a: ",MULT4)
+   escreval("A multiplicaï¿½ï¿½o entre ",B," e ",D," ï¿½ igual a: ",MULT5)
+   escreval("A multiplicaï¿½ï¿½o entre ",C," e ",D," ï¿½ igual a: ",MULT6)
 
 Fimalgoritmo
