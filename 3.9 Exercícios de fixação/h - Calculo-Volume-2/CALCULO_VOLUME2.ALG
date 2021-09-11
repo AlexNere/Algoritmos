@@ -1,15 +1,15 @@
 Algoritmo "CALCULO_VOLUME2"
 // 
 //  
-// Descrição   : Calcula o volume de uma caixa retangula.
-// Autor(a)    : Nome do(a) aluno(a)
+// Descriï¿½ï¿½o   : Calcula o volume de uma caixa retangula.
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 31/3/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    COMPRIMENTO, LARGURA, ALTURA, VOLUME : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
    escreva("Digite o comprimento da caixa: ")
    leia(COMPRIMENTO)
    escreva("Digite a largura da caixa : ")
@@ -17,6 +17,6 @@ Inicio
    escreva("Digite a altura da caixa: ")
    leia(ALTURA)
    VOLUME <- COMPRIMENTO * LARGURA * ALTURA
-   escreva("O volume da caixa retangular é: ",VOLUME)
+   escreva("O volume da caixa retangular ï¿½: ",VOLUME)
 
 Fimalgoritmo
