@@ -1,21 +1,21 @@
 Algoritmo "DIFERENCA_QUADRADO"
 // 
 //  
-// Descrição   : Calcula a diferença de A e B e faz a exponixiação do resultado.
-// Autor(a)    : Nome do(a) aluno(a)
+// Descriï¿½ï¿½o   : Calcula a diferenï¿½a de A e B e faz a exponixiaï¿½ï¿½o do resultado.
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 31/3/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    A, B :inteiro
    C   : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
    escreva("Digite o valor de A: ")
    leia(A)
    escreva("Digite o valo de B: ")
    leia(B)
    C <- (A-B)^2
-   escreva("A exponenciação da diferença entre ",A," e ",B," é: ",C)
+   escreva("A exponenciaï¿½ï¿½o da diferenï¿½a entre ",A," e ",B," ï¿½: ",C)
 
 Fimalgoritmo
