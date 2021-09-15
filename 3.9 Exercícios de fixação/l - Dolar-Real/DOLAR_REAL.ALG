@@ -3,20 +3,20 @@ Algoritmo "DOLAR_REAL"
 //  
 // 
 //  
-// Descrição   : Faz a converção do valor lido em dolar para real.
-// Autor(a)    : Nome do(a) aluno(a)
+// Descriï¿½ï¿½o   : Faz a converï¿½ï¿½o do valor lido em dolar para real.
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 6/4/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    COTACAO, Q_DOLARES, REAL2 : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-   escreva("Digite o valor da cotação do dolar: ")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
+   escreva("Digite o valor da cotaï¿½ï¿½o do dolar: ")
    leia(COTACAO)
    escreva("Digite a quantidade em dolar: ")
    leia(Q_DOLARES)
    REAL2 <- COTACAO * Q_DOLARES
-   escreva("A conversão de ",Q_DOLARES," dolar (es) em real (is) é de ",REAL2," real (is)")
+   escreva("A conversï¿½o de ",Q_DOLARES," dolar (es) em real (is) ï¿½ de ",REAL2," real (is)")
 
 Fimalgoritmo
