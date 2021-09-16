@@ -2,7 +2,7 @@ Algoritmo "SOMA_QUADRADO"
 // 
 //  
 // Descri��o   : Faz a soma dos quadrados de tr�s n�meros inteiros.
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 6/4/2021
 Var
 // Se��o de Declara��es das vari�veis 
