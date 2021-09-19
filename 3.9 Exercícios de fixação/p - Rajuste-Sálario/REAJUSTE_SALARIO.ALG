@@ -1,21 +1,21 @@
 Algoritmo "REAJUSTE_SALARIO"
 // 
 //  
-// Descrição   : Calcula o reajuste do sálario.
-// Autor(a)    : Nome do(a) aluno(a)
+// Descriï¿½ï¿½o   : Calcula o reajuste do sï¿½lario.
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 8/4/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    SM, PR, NS : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-   escreva("Digite o sálario atual: ")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
+   escreva("Digite o sï¿½lario atual: ")
    leia(SM)
    escreva("Digite o percentual do ajuste: ")
    leia(PR)
    NS <- SM + (SM*(PR/100))
-   escreva("O novo sálario com reajuste de ",PR,"% é de : ",NS)
+   escreva("O novo sï¿½lario com reajuste de ",PR,"% ï¿½ de : ",NS)
    
 
 Fimalgoritmo
