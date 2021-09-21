@@ -1,18 +1,18 @@
 Algoritmo "CALCULO_CIRCUNFERENCIA"
 // 
 //  
-// Descrição   : Calcula a área de uma circunferência.
-// Autor(a)    : Nome do(a) aluno(a)
+// Descriï¿½ï¿½o   : Calcula a ï¿½rea de uma circunferï¿½ncia.
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 8/4/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    A, R : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
    escreva("Digite o valor do raio: ")
    leia(R)
    A <- PI * R ^ 2
-   escreva("A área do circulo é de: ",A)
+   escreva("A ï¿½rea do circulo ï¿½ de: ",A)
 
 Fimalgoritmo
