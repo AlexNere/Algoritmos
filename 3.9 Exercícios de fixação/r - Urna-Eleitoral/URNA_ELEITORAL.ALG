@@ -1,11 +1,11 @@
 Algoritmo "URNA_ELEITORAL"
 // 
 //  
-// Descrição   : Faz a leitura da quantidade de votos validos, nulos e branco para cada candidato.
-// Autor(a)    : Nome do(a) aluno(a)
+// Descriï¿½ï¿½o   : Faz a leitura da quantidade de votos validos, nulos e branco para cada candidato.
+// Autor(a)    : Alex Nere Silva
 // Data atual  : 26/8/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
  NULOS_A, BRANCO_A, VALIDO_A : inteiro
  NULOS_B, BRANCO_B, VALIDO_B : inteiro
  NULOS_C, BRANCO_C, VALIDO_C : inteiro
@@ -15,7 +15,7 @@ Var
  PERCENT_A, PERCENT_B, PERCENT_C: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
  escreval("Votos ao candidato A")
  escreva("Total de votos validos canddato A: ")
  leia(VALIDO_A)
