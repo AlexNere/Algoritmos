@@ -9,9 +9,11 @@ Var
    C, F : REAL
 
 Inicio
-// Se��o de Comandos, procedimento, fun��es, operadores, etc... 
+// Se��o de Comandos, procedimento, fun��es, operadores, etc...
+   
+   escreva("Leia o valor de F: ")
    leia (F)
    C <- ((F-32)*5)/9
-   escreva (C)
+   escreva (F," Fahrenheit convertidos em graus é igual a: ",C)
 
 Fimalgoritmo
