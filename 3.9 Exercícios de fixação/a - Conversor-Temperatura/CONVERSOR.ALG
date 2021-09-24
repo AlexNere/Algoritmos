@@ -15,6 +15,6 @@ Inicio
     escreva("Digite o valo em graus celsios: ")
     LEIA (C)
     F <- (9*C+160)/5
-    ESCREVAL (C," graus celsios em fahrenheit e igual a: ",F," fahrenheit")
+    escreval (C," graus celsios em fahrenheit e igual a: ",F," fahrenheit")
 
 Fimalgoritmo
