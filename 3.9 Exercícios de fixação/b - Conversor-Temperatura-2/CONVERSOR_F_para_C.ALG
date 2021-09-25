@@ -1,15 +1,15 @@
 Algoritmo "CONVERSOR"
 // 
 //  
-// Descri��o   : Fahrenheit convertida em graus Celsius.
+// Descricao   : Fahrenheit convertida em graus Celsius.
 // Autor(a)    : Alex Nere Silva
 // Data atual  : 26/3/2021
 Var
-// Se��o de Declara��es das vari�veis 
+// Secao de Declaracoes das variaveis 
    C, F : REAL
 
 Inicio
-// Se��o de Comandos, procedimento, fun��es, operadores, etc...
+// Secao de Comandos, procedimento, funcoes, operadores, etc...
    
    escreva("Leia o valor de F: ")
    leia (F)
