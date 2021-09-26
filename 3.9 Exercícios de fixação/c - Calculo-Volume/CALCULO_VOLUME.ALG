@@ -1,15 +1,15 @@
 Algoritmo "CALCULO_VOLUME"
 // 
 //  
-// Descri��o   : Program de calcular volume
+// Descricao   : Program de calcular volume
 // Autor(a)    : Alex Nere Silva
 // Data atual  : 26/3/2021
 Var
-// Se��o de Declara��es das vari�veis 
+// Secao de Declaracoes das variaveis 
    ALTURA, VOLUME, R : real
 
 Inicio
-// Se��o de Comandos, procedimento, fun��es, operadores, etc...
+// Secao de Comandos, procedimento, funcoes, operadores, etc...
 
    escreva("Digite o valor da altura: ")
    leia(ALTURA)
