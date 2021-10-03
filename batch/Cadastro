@@ -1,0 +1,26 @@
+@echo off
+color 02
+mode 50,10
+title %date:/=-% %time:~0,5%
+
+echo Cadastro
+
+set /p nome=Digite seu nome:
+set /p "sobrenome=Digite seu sobrenome: "
+set /p "idade=Digite sua idade: "
+set /p "sexo=Digite seu sexo: "
+set nome_com= %nome% %sobrenome%
+
+cls
+
+echo.
+
+echo Cadastro
+
+echo COLUNA 01  COLUNA 02
+echo Nome:  %nome%
+echo Sobrenome: %sobrenome%
+echo Idade: %idade%
+echo Sexo:  %sexo%
+
+pause >nul
