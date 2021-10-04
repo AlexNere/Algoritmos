@@ -1,17 +1,17 @@
 Algoritmo "MAIO_10"
 // 
 //  
-// Descrição   : Programa que verifica se o valor da variavel e maior que 10.
+// Descricao   : Programa que verifica se o valor da variavel e maior que 10.
 // Autor(a)    : Alex Nere Silva
 // Data atual  : 7/9/2021
 Var
-// Seção de Declarações das variáveis
+// Secao de Declaracoes das variaveis
 
    A, B, X : real
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Secao de Comandos, procedimento, funcoes, operadores, etc...
 
  escreva("Digite o valor de A: ")
  leia(A)
