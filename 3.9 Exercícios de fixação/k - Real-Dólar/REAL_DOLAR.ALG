@@ -15,6 +15,6 @@ Inicio
    escreva("Digite o valor da quantidade de real: ")
    leia(Q_REAL2)
    DOLARES <- Q_REAL2 / COTACAO
-   escreva("O valor de ",Q_REAL2," real (is) em dolares � de ",DOLARES," dolar (es)")
+   escreva("O valor de ",Q_REAL2," real (is) em dolares e de ",DOLARES," dolar (es)")
 
 Fimalgoritmo
