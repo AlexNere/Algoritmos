@@ -18,6 +18,6 @@ Inicio
    escreva("Digite um valor inteiro para C: ")
    leia(C)
    SOMA <- A^2 + B^2 + C^2
-   escreva("A soma do resultado ao quadra de ",A,", ",B,", e ",C," � igual a: ",SOMA)
+   escreva("A soma do resultado ao quadra de ",A,", ",B,", e ",C," e igual a: ",SOMA)
 
 Fimalgoritmo
