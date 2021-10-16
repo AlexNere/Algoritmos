@@ -1,18 +1,18 @@
 Algoritmo "POTENCIACAO"
 // 
 //  
-// Descrição   : Programa que faz a exponeciacao de duas variaveis, BASE e
+// DescriÃ§Ã£o   : Programa que faz a exponeciacao de duas variaveis, BASE e
 //               ESPTE.
 // Autor(a)    : Alex Nere Silva
 // Data atual  : 28/8/2021
 Var
-// Seção de Declarações das variáveis 
+// Secao de Declaracoes das variaveis 
 
    BASE, ESPTE : inteiro
    EXPON : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Secao de Comandos, procedimento, funÃ§coes, operadores, etc... 
 
    escreva("Digite o valor da base da potencia: ")
    leia(BASE)
@@ -21,7 +21,7 @@ Inicio
    
    EXPON <- BASE ^ ESPTE
    
-   escreval("A exponeciacao de ",BASE," elevado a ",ESPTE," é igua a: ",EXPON)
+   escreval("A exponeciacao de ",BASE," elevado a ",ESPTE," e igua a: ",EXPON)
 
 
 Fimalgoritmo
